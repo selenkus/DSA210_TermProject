@@ -68,14 +68,5 @@ The models were used to predict IMDb ratings based on:
 
 ---
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Google Colab
-
----
 
 ### Selen Kuş
