@@ -68,5 +68,13 @@ The models were used to predict IMDb ratings based on:
 
 ---
 
+## Future Improvements
+Possible future improvements include:
+- Using actor/director popularity data
+- Including social media metrics
+- Testing more advanced machine learning models
+- Expanding the dataset
+
+---
 
 ### Selen Kuş
